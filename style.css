@@ -39,6 +39,8 @@
 }
 /* shared style code end */
 
+
+
 nav{
     padding: 20px 0;
     display: flex;
@@ -206,6 +208,28 @@ nav > ul > li >a{
     font-weight: 600;
     margin-bottom: 16px;
     
+}
+
+/* challenge part , think section */
+.think{
+    width: 85%;
+    max-width: 1340px;
+    margin:120px auto;
+}
+.think-container{
+    padding: 80px 0;
+    background-color: #F7F6F2;
+    text-align: center;
+    border-radius: 5px;
+}
+.think-heading h1{
+    margin-bottom: 16px;
+    color:#001931;
+    font-size: 40px;
+}
+.think-description{
+    color:#627382;
+    margin-top: 16px;
 }
 
 /* footer section */
