@@ -88,7 +88,7 @@ nav > ul > li >a{
     cursor:pointer;
 }
 .banner-btn1:hover{
-    background-color: #106836;
+    background-color: #032412;
     color:white;
 }
 .banner-title{
@@ -140,6 +140,7 @@ nav > ul > li >a{
 
 .banner-btn3 span i{
     font-size: 20px;
+
     
 }
 
